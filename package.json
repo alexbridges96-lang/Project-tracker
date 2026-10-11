@@ -1,0 +1,13 @@
+{
+  "name": "stagegate-project-tracker",
+  "version": "1.0.0",
+  "description": "Single-user project tracker aligned with PRINCE2 7 and ITIL 4 change enablement and service transition.",
+  "private": true,
+  "main": "server.js",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "license": "MIT"
+}
